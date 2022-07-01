@@ -10,7 +10,7 @@ int main()
     while(sqr!=0)
     {
         rem = sqr%10;
-        sum += rem; 
+        sum += rem;
         sqr /= 10;  
     }
 
